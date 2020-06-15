@@ -52,7 +52,7 @@ extern "C" void kernelMain(const void* multiboot_structure, unsigned int /*multi
     printf("Checking drivers....................................... OK\n");
     printf("Checking files......................................... OK\n");
     printf("Checking kernel........................................ OK\n");
-    printf("...........................OK.............................\n");
+    printf("...........................OK.............................\n"); // TODO: Add real checking!
     printf("\n");
     printf("READY TO USE\n");
     printf("\n\n");
